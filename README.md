@@ -4,7 +4,7 @@ A complete **Streamlit web application** that predicts whether a loan will be **
 
 The system combines predictions from multiple base models to make a more accurate and reliable decision.
 
-🔗 **Deployed App:** https://creditriskpredic.streamlit.app/
+🔗 **Deployed App:** https://stackingclass.streamlit.app/
 
 ---
 
@@ -85,12 +85,12 @@ The system explains decisions in simple business terms:
 ## 📁 Project Structure
 
 Smart-Loan-Approval-System/
-├── app.py
-├── requirements.txt
-├── README.md
-└── data/
-└── raw/
-└── train_u6lujuX_CVtuZ9i.csv
+- ├── app.py
+- ├── requirements.txt
+- ├── README.md
+- └── data/
+- └── raw/
+- └── train_u6lujuX_CVtuZ9i.csv
 
 ## ⚙️ How to Run the App Locally
 
